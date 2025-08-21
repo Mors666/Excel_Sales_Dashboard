@@ -1,6 +1,6 @@
 # 📊 Sales Dashboard (Excel)
 
-<img src="./Sales_Dashboard_SS.png" alt="Sales Dashboard Screenshot" width="950"/>
+<img src="./Sales_Dashboard_SS.png" alt="Sales Dashboard Screenshot" width="1000"/>
 
 ## 🚀 Project Overview
 This project is an **interactive Sales Dashboard built in Microsoft Excel** to analyze and visualize sales performance across multiple dimensions such as category, segment, state, and region. It leverages **pivot tables, slicers, and charts** to create a dynamic and user-friendly reporting solution.  
